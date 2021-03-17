@@ -6,7 +6,7 @@
 
 📒 I’m currently learning 👨‍💻JavaScript, HTML, CSS, Python🐍 and C for microcontrollers⚙️, apart off Hacking👨‍💻 and Linux (Ubuntu and Kali.), advanced physics and astronomy. 
 
-💞️ I’m looking to collaborate on all types of projects.
+👍 I’m looking to collaborate on all types of projects.
 
 📫 Reach me at https://linktr.ee/p.py (all my social medias are linked with all my projects and stuff)
 
@@ -20,7 +20,7 @@
 
 📒 Atualmente estou aprendendo 👨‍💻JavaScript, HTML, CSS, Python🐍 e C para microcontroladores⚙️, além de Hacking👨‍💻 e Linux (Ubuntu e Kali.), Física avançada e astronomia.
 
-💞️ Estou procurando colaborar em todos os tipos de projetos.
+👍 Estou procurando colaborar em todos os tipos de projetos.
 
 📫 Entre em contato comigo em https://linktr.ee/p.py (todas as minhas mídias sociais estão vinculadas a todos os meus projetos e outras coisas)
 *VEJA MEUS REPOSITÓRIOS DO GITHUB PARA CHECAR TODOS MEUS PROJETOS MAIS IMPORTANTES*
