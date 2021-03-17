@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Pedro Salviano Santos from Brazil, a 15 years old guy who likes everything about science🔬, specially physics🛰 and astronomy🌌, and technology. I speak  Portuguese(BR) as my mothertongue, English, a little bit of Spanish and German.
 
-*THE MAJORITY OF MY PROJECTS ARE MADE AND DOCUMENTED IN ENGLISH, JUST SOME OF THEM ARE IN BOTH VERSIONS (PT-BR and EN) OR JUST IN PT-BR
+*THE MAJORITY OF MY PROJECTS ARE MADE AND DOCUMENTED IN ENGLISH, JUST SOME OF THEM ARE IN BOTH VERSIONS (PT-BR and EN) OR JUST IN PT-BR*
 
 👀 I’m interested in 🦾machine learning, web development🌐, data science📊, python🐍, JS🖥️, HTML🖥️, CSS🖥️, rasberry pi, arduino, hacking, astronomy, physics and all kinds off science.
 
@@ -12,7 +12,7 @@
 
 📫 Reach me at https://linktr.ee/p.py (all my social medias are linked with all my projects and stuff)
 
-*CHECK MY REPOSITORIES FOR ALL OF IMPORTANT PROJECTS* 
+*CHECK MY REPOSITORIES FOR ALL OF MINE IMPORTANT PROJECTS* 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 *[PT-BR]*
 
