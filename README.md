@@ -1,6 +1,8 @@
 *[EN]*
 
-👋 Hi, I’m Pedro Salviano Santos, a 15 years old guy who likes everything about science🔬, specially physics🛰 and astronomy🌌, and technology. I speak English, Portuguese(BR) and a little bit of Spanish and German.
+👋 Hi, I’m Pedro Salviano Santos from Brazil, a 15 years old guy who likes everything about science🔬, specially physics🛰 and astronomy🌌, and technology. I speak  Portuguese(BR) as my mothertongue, English, a little bit of Spanish and German.
+
+*THE MAJORITY OF MY PROJECTS ARE MADE AND DOCUMENTED IN ENGLISH, JUST SOME OF THEM ARE IN BOTH VERSIONS (PT-BR and EN) OR JUST IN PT-BR
 
 👀 I’m interested in 🦾machine learning, web development🌐, data science📊, python🐍, JS🖥️, HTML🖥️, CSS🖥️, rasberry pi, arduino, hacking, astronomy, physics and all kinds off science.
 
@@ -15,6 +17,8 @@
 *[PT-BR]*
 
 👋 Olá, sou Pedro Salviano Santos, um rapaz de 15 anos que gosta de tudo sobre ciência🔬, principalmente física🛰 e astronomia🌌, e tecnologia. Falo inglês, português (BR) e um pouco de espanhol e alemão.
+
+*A MAIORIA DOS MEUS PROJETOS É FEITA E DOCUMENTADA EM INGLÊS, APENAS ALGUNS ESTÃO NAS AMBAS AS VERSÕES (PT-BR E EN) OU APENAS EM PT-BR*
 
 👀 Estou interessado em   aprendizado de máquina, desenvolvimento web🌐, ciência de dados📊, python🐍, JS🖥️, HTML🖥️, CSS🖥️, rasberry pi, arduino, hacking, astronomia, física e todos os tipos de ciência.
 
