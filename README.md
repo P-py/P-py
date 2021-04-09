@@ -40,6 +40,7 @@ Estou procurando colaborar em todos os tipos de projetos.
 <p align="left" > <strong> :books: Aprendendo:</strong>
   <ul>
     <li> :technologist: Desenvolvimento Web</li>
+    <li> :desktop-computer: Full-stack com JavaScript</li>
     <li> :snake: Python</li>
     <li> :globe_with_meridians: Administração geral de redes e servidores básicos</li>
     <li> :man_technologist: Hacking</li>
