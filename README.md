@@ -1,5 +1,4 @@
 <h1 align="center"> Hi ! :wave: </h1>
-<h2 algin="center"> Versão em Português / PT-BR version</h2>
 
 <img src="image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
