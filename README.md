@@ -18,13 +18,13 @@ Estou procurando colaborar em todos os tipos de projetos.
 </p>
 <p align="left"> :rocket: <strong>Minha stack de conhecimentos:</strong><br>
   <ul>
-    <li>Python</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>C para microcontroladores (especificamente Arduino)</li>
-    <li>Hacking</li>
-    <li>Linux básico (Kali e Ubuntu)</li>
-    <li>Física avançada-mediana e Astronomia básica</li>
+    <li> :snake: Python</li>
+    <li> :computer: HTML</li>
+    <li> :computer: CSS</li>
+    <li> C para microcontroladores (especificamente Arduino)</li>
+    <li> :man_technologist: Hacking</li>
+    <li> :penguin: Linux básico (Kali e Ubuntu)</li>
+    <li> :rocket: Física avançada-mediana e Astronomia básica</li>
   </ul>
 </p>
 
