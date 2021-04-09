@@ -1,30 +1,69 @@
-*[EN]*
+<h1 align="center"> Hi ! :wave: </h1>
 
-👋 Hi, I’m Pedro Salviano Santos from Brazil, a 15 years old guy who likes everything about science🔬, specially physics🛰 and astronomy🌌, and technology. I speak  Portuguese(BR) as my mothertongue, English, a little bit of Spanish and German.
+<img src="image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
-*THE MAJORITY OF MY PROJECTS ARE MADE AND DOCUMENTED IN ENGLISH, JUST SOME OF THEM ARE IN BOTH VERSIONS (PT-BR and EN) OR JUST IN PT-BR*
+<p align="left"> 
+Olá, sou Pedro Salviano Santos, um rapaz de 15 anos que gosta de tudo sobre ciência, principalmente física e astronomia🌌, e tecnologia. Falo inglês, português (BR) e um pouco de espanhol e alemão. No momento estudo Análise e Desenvolvimento de sistemas no SENAC.
+</p>
+<p align="left">
+Estou interessado em aprendizado de máquina, desenvolvimento web, ciência de dados, python, JS, HTML, CSS, rasberry pi, arduino, hacking, astronomia, física e todos os tipos de ciência.
+</p>
+<p align="left">
+Estou procurando colaborar em todos os tipos de projetos.
+</p>
+<p aling="left">
+  <strong>Veja meus repositórios no GitHub e encontrará todos os meus projetos mais significantes.
+  Vale avisar que a maioria dos meus projetos são feitos em inglês mas também possuem suas versões comentadas em português.</strong>
+</p>
+<p align="left"> :rocket: <strong>Minha stack de conhecimentos:</strong><br>
+  <ul>
+    <li>Python</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>C para microcontroladores (especificamente Arduino)</li>
+    <li>Hacking</li>
+    <li>Linux básico (Kali e Ubuntu)</li>
+    <li>Física avançada-mediana e Astronomia básica</li>
+  </ul>
+</p>
 
-👀 I’m interested in 🦾machine learning, web development🌐, data science📊, python🐍, JS🖥️, HTML🖥️, CSS🖥️, rasberry pi, arduino, hacking, astronomy, physics and all kinds off science.
+<p align="left"> :briefcase: <strong>Ferramentas:</strong>
+  <ul>
+    <li>Visual Studio Code</li>
+    <li>Sublime-Text</li>
+  </ul>
+</p>
 
-📒 I’m currently learning 👨‍💻JavaScript, HTML, CSS, Python🐍 and C for microcontrollers⚙️, apart off Hacking👨‍💻 and Linux (Ubuntu and Kali.), advanced physics and astronomy. 
+<p align="left" > <strong> :books: Aprendendo:</strong>
+  <ul>
+    <li> :technologist: Desenvolvimento Web</li>
+    <li> :arrow_up: Aprimorando o Inglês</li>
+    <li> :penguin: Linux</li>
+  </ul>
+</p>
 
-👍 I’m looking to collaborate on all types of projects.
+<p aling="left"> <strong> :mailbox_closed: Entre em contato comigo: </strong>
+  <p><a href="https://linktr.ee/p.py">Meu Linktree com todas as mídias sociais e meios de contato.</a></p>
+  <p><a href="https://p-py.github.io/">Meu site</a></p>
 
-📫 Reach me at https://linktr.ee/p.py (all my social medias are linked with all my projects and stuff)
+<p align="center">
+  <a href="mailto:pedrosalviano170@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/__pedrossantos/"><img src="https://img.shields.io/badge/-Instagram-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
+  <a href="https://p-py.github.io/"><img src="https://img.shields.io/badge/Site-clique%20aqui%20e%20veja%20o%20meu%20site-lightgrey" /></a>
+</p>
+  
+----
 
-*CHECK MY REPOSITORIES FOR ALL OF MINE IMPORTANT PROJECTS* 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-*[PT-BR]*
+<h1 align="center">:star:Estatísticas da minha conta no GitHub</h1>
+<p align="center">
+<a href="https://P-py.github.io" align = "center">
+<img aling="center" src = "https://github-readme-stats.vercel.app/api?username=P-py&show_icons=true&theme=slateorange" alt = "P-py" /> 
+</a>
+</p>
+<p align="center">
+<a href="https://P-py.github.io" align = "center">
+<img aling="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=P-py&layout=compact&theme=slateorange" alt = "P-py" /> 
+</a>
+</p>
 
-👋 Olá, sou Pedro Salviano Santos, um rapaz de 15 anos que gosta de tudo sobre ciência🔬, principalmente física🛰 e astronomia🌌, e tecnologia. Falo inglês, português (BR) e um pouco de espanhol e alemão.
 
-*A MAIORIA DOS MEUS PROJETOS É FEITA E DOCUMENTADA EM INGLÊS, APENAS ALGUNS ESTÃO NAS AMBAS AS VERSÕES (PT-BR E EN) OU APENAS EM PT-BR*
-
-👀 Estou interessado em   aprendizado de máquina, desenvolvimento web🌐, ciência de dados📊, python🐍, JS🖥️, HTML🖥️, CSS🖥️, rasberry pi, arduino, hacking, astronomia, física e todos os tipos de ciência.
-
-📒 Atualmente estou aprendendo 👨‍💻JavaScript, HTML, CSS, Python🐍 e C para microcontroladores⚙️, além de Hacking👨‍💻 e Linux (Ubuntu e Kali.), Física avançada e astronomia.
-
-👍 Estou procurando colaborar em todos os tipos de projetos.
-
-📫 Entre em contato comigo em https://linktr.ee/p.py (todas as minhas mídias sociais estão vinculadas a todos os meus projetos e outras coisas)
-*VEJA MEUS REPOSITÓRIOS DO GITHUB PARA CHECAR TODOS MEUS PROJETOS MAIS IMPORTANTES*
