@@ -3,7 +3,7 @@
 <img src="image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
 <p align="left"> 
-Olá, sou Pedro Salviano Santos, um rapaz de 15 anos que gosta de tudo sobre ciência, principalmente física e astronomia🌌, e tecnologia. Falo inglês, português (BR) e um pouco de espanhol e alemão. No momento estudo Análise e Desenvolvimento de sistemas no SENAC.
+Olá, sou Pedro Salviano Santos, um rapaz de 15 anos que gosta de tudo sobre tecnologa e ciência, principalmente física e astronomia. Falo inglês, português (BR) e um pouco de espanhol e alemão. No momento estudo Análise e Desenvolvimento de sistemas no SENAC.
 </p>
 <p align="left">
 Estou interessado em aprendizado de máquina, desenvolvimento web, ciência de dados, python, JS, HTML, CSS, rasberry pi, arduino, hacking, astronomia, física e todos os tipos de ciência.
@@ -23,7 +23,7 @@ Estou procurando colaborar em todos os tipos de projetos.
     <li> C para microcontroladores (especificamente Arduino)</li>
     <li> :man_technologist: Hacking</li>
     <li> :penguin: Linux básico (Kali e Ubuntu)</li>
-    <li> :rocket: Física avançada-mediana e Astronomia básica</li>
+    <li> :rocket: Física fundamental e Astronomia básica</li>
   </ul>
 </p>
 
@@ -44,7 +44,7 @@ Estou procurando colaborar em todos os tipos de projetos.
     <li> :globe_with_meridians: Administração geral de redes e servidores básicos</li>
     <li> :man_technologist: Hacking</li>
     <li> :penguin: Linux</li>
-    <li> :rocket: Física avançada-mediana e Astronomia básica</li>
+    <li> :rocket: Física avançada e Astronomia básica</li>
   </ul>
 </p>
 
