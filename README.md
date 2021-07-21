@@ -68,6 +68,6 @@ Estou procurando colaborar em todos os tipos de projetos.
 </p>
 <p align="center">
 <a href="https://P-py.github.io" align = "center">
-<img aling="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=P-py&layout=compact&theme=slateorange" alt = "P-py" /> 
+<img aling="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=P-py&theme=slateorange" alt = "P-py" /> 
 </a>
 </p>
