@@ -3,7 +3,7 @@
 <img src="image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
 <p align="left"> 
-Olá, sou Pedro Salviano Santos, um rapaz de 15 anos que gosta de tudo sobre tecnologa e ciência, principalmente física e astronomia. Falo inglês, português (BR) e um pouco de espanhol e alemão. No momento estudo Análise e Desenvolvimento de sistemas no SENAC.
+Olá, sou Pedro, um rapaz de 16 anos que gosta de tudo sobre tecnologa e ciência, principalmente física e astronomia. Falo inglês, português (BR) e um pouco de espanhol e alemão. No momento estudo Análise e Desenvolvimento de sistemas no SENAC.
 </p>
 <p align="left">
 Estou interessado em aprendizado de máquina, desenvolvimento web, ciência de dados, python, JS, HTML, CSS, rasberry pi, arduino, hacking, astronomia, física e todos os tipos de ciência.
