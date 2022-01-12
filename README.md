@@ -6,7 +6,7 @@
 Olá, sou Pedro, um rapaz de 16 anos que gosta de tudo sobre tecnologa e ciência, principalmente física e astronomia. Falo inglês, português (BR) e um pouco de espanhol e alemão. No momento eu estudo desenvolvimento de software, hacking e derivados assuntos de engenharia aeroespacial.
 </p>
 <p align="left">
-Estou interessado em aprendizado de máquina, desenvolvimento web, ciência de dados, python, JS, HTML, CSS, rasberry pi, arduino, hacking, astronomia, física e todos os tipos de ciência.
+Estou interessado em aprendizado de máquina, desenvolvimento web, ciência de dados, python, JS, rasberry pi, arduino, hacking, astronomia e física.
 </p>
 <p align="left">
 Estou procurando colaborar em todos os tipos de projetos.
@@ -53,15 +53,11 @@ Estou procurando colaborar em todos os tipos de projetos.
 
 <p aling="left"> <strong> :mailbox_closed: Entre em contato comigo: </strong>
   <p><a href="https://linktr.ee/p.py">Meu Linktree com todas as mídias sociais e meios de contato.</a></p>
-  <p><a href="https://p-py.github.io/">Meu site</a></p>
 
 <p align="center">
   <a href="mailto:pedrosalviano170@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/__pedrossantos/"><img src="https://img.shields.io/badge/-Instagram-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
-  <a href="https://p-py.github.io/"><img src="https://img.shields.io/badge/Site-clique%20aqui%20e%20veja%20o%20meu%20site-lightgrey" /></a>
+  <a href="https://instagram.com/1pedrosalviano/"><img src="https://img.shields.io/badge/-Instagram-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
 </p>
-  
-----
 
 <h1 align="center">:star:Estatísticas da minha conta no GitHub</h1>
 <p align="center">
