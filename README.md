@@ -3,7 +3,7 @@
 <img src="image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
 <p align="left"> 
-Olá, sou Pedro, um rapaz de 16 anos que gosta de tudo sobre tecnologa e ciência, principalmente física e astronomia. Falo inglês, português (BR) e um pouco de espanhol e alemão. No momento eu estudo desenvolvimento de software, hacking e derivados assuntos de engenharia aeroespacial.
+Olá, sou o Pedro, conhecido aqui no GitHub como "p-py". Falo inglês, português (BR) e um pouco de espanhol e alemão. No momento eu estudo desenvolvimento de software, hacking e derivados assuntos de engenharia aeroespacial.
 </p>
 <p align="left">
 Estou interessado em aprendizado de máquina, desenvolvimento web, ciência de dados, python, JS, rasberry pi, arduino, hacking, astronomia e física.
