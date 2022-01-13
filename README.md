@@ -20,22 +20,31 @@ Estou procurando colaborar em todos os tipos de projetos.
 </p>
 <p align="left"> :rocket: <strong>Minha stack de conhecimentos:</strong><br>
   <ul>
-    <li> :snake: Python</li>
-    <li> :computer: HTML</li>
-    <li> :computer: CSS</li>
-    <li> C para microcontroladores (especificamente Arduino)</li>
-    <li> :man_technologist: Hacking</li>
-    <li> :penguin: Linux básico (Kali e Ubuntu)</li>
+    <li> :snake: Python </li>
+    <li> :snake: Flask </li>
+    <li> :spider_web: HTML5 </li>
+    <li> :spider_web: CSS3 </li>
+    <li> :wrench: C </li>
+    <li> :wrench: C++ </li>
+    <li> :computer: ARDUINO </li>
+    <li> :man_technologist: Bash </li>
+    <li> :man_technologist: Hacking (fundamentals) </li>
+    <li> :penguin: Unix/Linux </li>
+    <li> :spider_web: Bootstrap </li>
+    <li> :notebook_with_decorative_cover: Markdown </li>
+    <li> :bar_chart: SQLAlchemy </li>
+    <br />
     <li> :rocket: Física fundamental e Astronomia básica</li>
   </ul>
 </p>
 
 <p align="left"> :briefcase: <strong>Ferramentas:</strong>
   <ul>
-    <li>Visual Studio Code</li>
-    <li>Pycharm</li>
-    <li>Git</li>
-    <li>GitHubDesktop</li>
+    <li> VSCode </li>
+    <li> GitHub </li>
+    <li> Heroku </li>
+    <li> Git </li>
+    <li> Gimp </li>
   </ul>
 </p>
 
@@ -43,7 +52,6 @@ Estou procurando colaborar em todos os tipos de projetos.
   <ul>
     <li> :technologist: Desenvolvimento Web</li>
     <li> 🖥️ Full-stack com JavaScript</li>
-    <li> :snake: Python</li>
     <li> :globe_with_meridians: Administração geral de redes e servidores básicos</li>
     <li> :man_technologist: Hacking</li>
     <li> :penguin: Linux</li>
@@ -67,6 +75,6 @@ Estou procurando colaborar em todos os tipos de projetos.
 </p>
 <p align="center">
 <a href="https://P-py.github.io" align = "center">
-<img aling="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=P-py&theme=slateorange&langs_count=10" alt = "P-py" /> 
+<img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-py&theme=slateorange&langs_count=10" alt = "P-py" /> 
 </a>
 </p>
