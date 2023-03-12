@@ -11,13 +11,6 @@ Estou interessado em aprendizado de máquina, desenvolvimento web, ciência de d
 <p align="left">
 Estou procurando colaborar em todos os tipos de projetos.
 </p>
-<p align="left">
-  <strong><em>Se eu não fiz nenhum update recentemente, é porque, provavelmente, estou ocupado com a escola.</em></strong>
-</p>
-<p align="left">
-  <strong>Veja meus repositórios no GitHub e encontrará todos os meus projetos mais significantes.
-  Vale avisar que a maioria dos meus projetos são feitos em inglês mas também possuem suas versões comentadas em português.</strong>
-</p>
 <p align="left"> :rocket: <strong>Minha stack de conhecimentos:</strong><br>
   <ul>
     <li> :snake: Python </li>
