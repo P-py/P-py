@@ -1,17 +1,12 @@
 <h1 align="center"> Hi ! :wave: </h1>
 
-<img src="image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
-
 <p align="left"> 
-Olá, sou o Pedro, conhecido aqui no GitHub como "p-py". Falo inglês, português (BR) e um pouco de espanhol e alemão. No momento eu estudo desenvolvimento de software, hacking e derivados assuntos de engenharia aeroespacial.
+Hi, I'm Pedro, known here on GitHub as "p-py". I speak English, Portuguese (BR) and a little Spanish and German. At the moment I am a Computer Engineering student at the "Faculdade de Engenharia de Sorocaba / Faculty of Engineering of Sorocaba" (FACENS). I am studying and interested in the areas of backend software development, hardware hacking and aerospace engineering
 </p>
 <p align="left">
-Estou interessado em aprendizado de máquina, desenvolvimento web, ciência de dados, python, JS, rasberry pi, arduino, hacking, astronomia e física.
+I'm looking to collaborate on all kinds of projects.
 </p>
-<p align="left">
-Estou procurando colaborar em todos os tipos de projetos.
-</p>
-<p align="left"> :rocket: <strong>Minha stack de conhecimentos:</strong><br>
+<p align="left"> :rocket: <strong>My stack of knowledges:</strong><br>
   <ul>
     <li> :snake: Python </li>
     <li> :snake: Flask </li>
@@ -31,7 +26,7 @@ Estou procurando colaborar em todos os tipos de projetos.
   </ul>
 </p>
 
-<p align="left"> :briefcase: <strong>Ferramentas:</strong>
+<p align="left"> :briefcase: <strong>Tools:</strong>
   <ul>
     <li> VSCode </li>
     <li> GitHub </li>
@@ -41,26 +36,21 @@ Estou procurando colaborar em todos os tipos de projetos.
   </ul>
 </p>
 
-<p align="left" > <strong> :books: Aprendendo:</strong>
+<p align="left" > <strong> :books: Learning:</strong>
   <ul>
-    <li> :technologist: Desenvolvimento Web</li>
-    <li> 🖥️ Full-stack com JavaScript</li>
-    <li> :globe_with_meridians: Administração geral de redes e servidores básicos</li>
-    <li> :man_technologist: Hacking</li>
+    <li> :technologist: Full-stack Web development</li>
+    <li> :globe_with_meridians: Networks and servers management</li>
+    <li> :man_technologist: Introductio to hacking</li>
     <li> :penguin: Linux</li>
-    <li> :rocket: Física avançada e Astronomia básica</li>
+    <li> :rocket: Basic Physics and Astronomy</li>
   </ul>
 </p>
 
-<p aling="left"> <strong> :mailbox_closed: Entre em contato comigo: </strong>
-  <p><a href="https://linktr.ee/p.py">Meu Linktree com todas as mídias sociais e meios de contato.</a></p>
-
 <p align="center">
   <a href="mailto:pedrosalviano170@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/1pedrosalviano/"><img src="https://img.shields.io/badge/-Instagram-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
 </p>
 
-<h1 align="center">:star:Estatísticas da minha conta no GitHub</h1>
+<h1 align="center">:star:Stats</h1>
 <p align="center">
 <a href="https://P-py.github.io" align = "center">
 <img aling="center" src = "https://github-readme-stats.vercel.app/api?username=P-py&show_icons=true&theme=slateorange" alt = "P-py" /> 
