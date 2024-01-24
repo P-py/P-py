@@ -44,12 +44,6 @@ I'm looking to collaborate on all kinds of projects.
   <a href="mailto:pedrosalviano170@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
-<h1 align="center">:star:Stats</h1>
-<p align="center">
-<a href="https://P-py.github.io" align = "center">
-<img aling="center" src = "https://github-readme-stats.vercel.app/api?username=P-py&show_icons=true&theme=slateorange" alt = "P-py" /> 
-</a>
-</p>
 <p align="center">
 <a href="https://P-py.github.io" align = "center">
 <img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-py&theme=slateorange&langs_count=10" alt = "P-py" /> 
