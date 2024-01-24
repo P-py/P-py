@@ -1,7 +1,7 @@
 <h1 align="center"> Hi ! :wave: </h1>
 
 <p align="left"> 
-Hi, I'm Pedro, known here on GitHub as "p-py". I speak English, Portuguese (BR) and a little Spanish and German. At the moment I am a Computer Engineering student at the "Faculdade de Engenharia de Sorocaba / Faculty of Engineering of Sorocaba" (FACENS). I am studying and interested in the areas of backend software development, hardware hacking and aerospace engineering
+Hi, I'm Pedro. I speak English, Portuguese (BR) and a little Spanish and German. At the moment I am a Computer Engineering student at the "Faculdade de Engenharia de Sorocaba / Faculty of Engineering of Sorocaba" (FACENS). I am studying and interested in the areas of backend software development, hardware hacking and aerospace engineering
 </p>
 <p align="left">
 I'm looking to collaborate on all kinds of projects.
@@ -10,19 +10,14 @@ I'm looking to collaborate on all kinds of projects.
   <ul>
     <li> :snake: Python </li>
     <li> :snake: Flask </li>
-    <li> :spider_web: HTML5 </li>
-    <li> :spider_web: CSS3 </li>
-    <li> :wrench: C </li>
-    <li> :wrench: C++ </li>
+    <li> :wrench: C/C++ </li>
     <li> :computer: ARDUINO </li>
     <li> :man_technologist: Bash </li>
     <li> :man_technologist: Hacking (fundamentals) </li>
     <li> :penguin: Unix/Linux </li>
     <li> :spider_web: Bootstrap </li>
-    <li> :notebook_with_decorative_cover: Markdown </li>
     <li> :bar_chart: SQLAlchemy </li>
     <br />
-    <li> :rocket: Física fundamental e Astronomia básica</li>
   </ul>
 </p>
 
@@ -38,11 +33,10 @@ I'm looking to collaborate on all kinds of projects.
 
 <p align="left" > <strong> :books: Learning:</strong>
   <ul>
-    <li> :technologist: Full-stack Web development</li>
+    <li> :technologist: Backend Development with Java/Python </li>
     <li> :globe_with_meridians: Networks and servers management</li>
-    <li> :man_technologist: Introductio to hacking</li>
+    <li> :man_technologist: Hacking</li>
     <li> :penguin: Linux</li>
-    <li> :rocket: Basic Physics and Astronomy</li>
   </ul>
 </p>
 
