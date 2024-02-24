@@ -1,5 +1,3 @@
-<h1 align="center"> Hi ! :wave: </h1>
-
 <p align="left"> 
 Hi, I'm Pedro. I speak English, Portuguese (BR) and a little Spanish and German. At the moment I am a Computer Engineering student at the "Faculdade de Engenharia de Sorocaba / Faculty of Engineering of Sorocaba" (FACENS). I am studying and interested in the areas of backend software development, hardware hacking and aerospace engineering
 </p>
@@ -12,6 +10,6 @@ I'm looking to collaborate on all kinds of projects.
 
 <p align="center">
 <a href="https://P-py.github.io" align = "center">
-<img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-py&theme=slateorange&langs_count=10" alt = "P-py" /> 
+<img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-py&hide=html,css&layout=compact" alt = "P-py" /> 
 </a>
 </p>
